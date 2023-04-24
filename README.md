@@ -13,7 +13,6 @@
 - ⚡ curiosidade: Sou muito esforçado, gosto bastante de tecnologia
 
 
-![Sostenes's GitHub stats](https://github-readme-stats.vercel.app/api?username=SostenesJr&show_icons=true&theme=dark)
 
 
 TECNOLOGIAS QUE USO:
