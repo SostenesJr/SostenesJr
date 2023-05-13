@@ -4,12 +4,11 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sramos.jr/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SostenesJr)
 [![MySite](https://img.shields.io/badge/Portfolio-205000?style=for-the-badge&logo=google&logoColor=gray)](https://sostenesjr.github.io/)
-
+[![MyEmail](https://img.shields.io/badge/Email-705000?style=for-the-badge&logo=email&logoColor=gray)](mailto:sostenesjr1993@gmail.com)
 
 - 🔭 Hoje aprendendo sobre a carreira de Ciência de Dados
 - 🌱 estudante de Ciência de dados e suas perspectivas tecnologias de forma que as empresas precisam
 - 👯 Estou atualmente procurando uma oportunidade para desenvolver minhas habilidades
-- 📫 Contate-me: [![MyEmail](https://img.shields.io/badge/Email-705000?style=for-the-badge&logo=email&logoColor=gray)](mailto:sostenesjr1993@gmail.com)
 - 😄 Pronouns: ele/dele
 - ⚡ curiosidade: Sou muito esforçado, gosto bastante de tecnologia
 
