@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sostenes-ramos-concei%C3%A7%C3%A3o-junior-3153b3255/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sramos.jr/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SostenesJr)
-[![site](https://img.shields.io/badge/bountysource/team/:team/activity)](https://sostenesjr.github.io/)
+[![site](https://img.shields.io/badge/google-100000?style=for-the-badge&logo=github&logoColor=white)](https://sostenesjr.github.io/)
 
 
 - 🔭 Hoje aprendendo sobre Python
