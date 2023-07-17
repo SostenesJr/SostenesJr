@@ -6,8 +6,8 @@
 [![MySite](https://img.shields.io/badge/Portfolio-205000?style=for-the-badge&logo=google&logoColor=gray)](https://sostenesjr.github.io/)
 [![MyEmail](https://img.shields.io/badge/Email-705000?style=for-the-badge&logo=email&logoColor=gray)](mailto:sostenesjr1993@gmail.com)
 
-- 🔭 Hoje aprendendo sobre a carreira de Ciência de Dados
-- 🌱 estudante de Ciência de dados e suas perspectivas tecnologias de forma que as empresas precisam
+- 🔭 Hoje aprendendo sobre a carreira de Desenvolvedor
+- 🌱 estudante de Dart e Fluttere suas perspectivas tecnologias de forma que as empresas precisam
 - 👯 Estou atualmente procurando uma oportunidade para desenvolver minhas habilidades
 - 😄 Pronouns: ele/dele
 - ⚡ curiosidade: Sou muito esforçado, gosto bastante de tecnologia
@@ -21,4 +21,5 @@ TECNOLOGIAS QUE USO:
   <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img align="center" alt="PYTHON" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
   <img align="center" alt="GIT" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+  <img align="center" alt="DART" src="https://img.shields.io/badge/DART-E44C30?style=for-the-badge&logo=dart&logoColor=white"/>
 </div>
