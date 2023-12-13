@@ -6,9 +6,9 @@
 [![MySite](https://img.shields.io/badge/Portfolio-205000?style=for-the-badge&logo=google&logoColor=gray)](https://sostenesjr.github.io/)
 [![MyEmail](https://img.shields.io/badge/Email-705000?style=for-the-badge&logo=email&logoColor=gray)](mailto:sostenesjr1993@gmail.com)
 
-- 🔭 Hoje aprendendo sobre a carreira de Desenvolvedor
-- 🌱 estudante de Dart e Flutter e suas perspectivas tecnologias de forma que as empresas precisam
-- 👯 Estou atualmente procurando uma oportunidade para desenvolver minhas habilidades
+- 🔭 Hoje aprendendo sobre a carreira de Cientista de dados
+- 🌱 estudante de Ciência de dados e suas perspectivas tecnologias de forma que as empresas precisam
+- 👯 Estou atualmente procurando uma oportunidade para analista e cientista de dados
 - 😄 Pronouns: ele/dele
 - ⚡ curiosidade: Sou muito esforçado, gosto bastante de tecnologia
 
