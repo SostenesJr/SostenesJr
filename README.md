@@ -6,11 +6,11 @@
 [![MySite](https://img.shields.io/badge/Portfolio-205000?style=for-the-badge&logo=google&logoColor=gray)](https://sostenesjr.github.io/)
 [![MyEmail](https://img.shields.io/badge/Email-705000?style=for-the-badge&logo=email&logoColor=gray)](mailto:sostenesjr1993@gmail.com)
 
-- 🔭 Hoje aprendendo sobre a carreira de Cientista de dados
-- 🌱 estudante de Ciência de dados e suas perspectivas tecnologias de forma que as empresas precisam
-- 👯 Estou atualmente procurando uma oportunidade para analista e cientista de dados
+- 🔭 Hoje aprendendo cada dia mais sobre Análise e Ciência de dados.
+- 🌱 Evoluindo um pouco por dia sobre o grande mundo dos dados
+- 👯 Estou atualmente transição de carreira
 - 😄 Pronouns: ele/dele
-- ⚡ curiosidade: Sou muito esforçado, gosto bastante de tecnologia
+- ⚡ curiosidade: Progresso constante e gosto bastante de tecnologia
 
 
 
