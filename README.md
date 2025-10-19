@@ -1,8 +1,8 @@
 # Olá! 👋 Sou o Sostenes Junior
 
-Sou um **Data Analyst em formação**, com uma sólida base em **Administração** e **experiência prática em controle e integridade de dados** em ambientes de processo produtivo (PCB). Minha jornada atual é aprofundar-me no universo da **Análise de Dados**, combinando meu perfil analítico e atenção aos detalhes com **Power BI, SQL e Python** para transformar dados brutos em *insights estratégicos e visualizações impactantes*.
+Sou um **Data Analyst em formação**, com uma sólida base em **Administração** e **experiência teórica em controle e integridade de dados**. Minha jornada atual é aprofundar-me no universo da **Análise de Dados**, combinando meu perfil analítico e atenção aos detalhes com **Power BI, SQL e Python** para transformar dados brutos em *insights estratégicos e visualizações impactantes*.
 
-Busco uma oportunidade de **Estágio em Análise de Dados** para aplicar e expandir minhas competências, contribuindo ativamente na criação de relatórios e dashboards que impulsionem a tomada de decisões.
+Busco uma oportunidade de **Estágio na área de Dados** para aplicar e expandir minhas competências, contribuindo ativamente na criação de relatórios e dashboards que impulsionem a tomada de decisões.
 
 ---
 
@@ -17,8 +17,8 @@ Busco uma oportunidade de **Estágio em Análise de Dados** para aplicar e expan
 ### 🚀 Minha Jornada e Habilidades em Destaque
 
 * 🔭 **Transição de Carreira & Foco em Dados:** Profissional com formação em Administração e ampla experiência em gestão de processos e garantia da qualidade, agora totalmente focado e especializado em Análise de Dados.
-* 📊 **Visualização de Dados:** Habilidade comprovada na criação de dashboards e relatórios interativos com **Microsoft Power BI** e **Excel Avançado**, transformando dados complexos em informações claras e acessíveis.
-* 🔍 **Qualidade e Integridade de Dados:** Experiência prática em ambientes que exigem estrito controle, rastreabilidade e integridade da informação (documentação de ponta a ponta), garantindo a confiabilidade dos dados para análises.
+* 📊 **Visualização de Dados:** Habilidade teórica na criação de dashboards e relatórios interativos com **Microsoft Power BI** e **Excel Avançado**, transformando dados complexos em informações claras e acessíveis.
+* 🔍 **Qualidade e Integridade de Dados:** Experiência teórica em ambientes que exigem estrito controle, rastreabilidade e integridade da informação (documentação de ponta a ponta), garantindo a confiabilidade dos dados para análises.
 * 💻 **Manipulação e Consulta:** Conhecimento em **SQL Básico** para consultas de dados e **Python (com bibliotecas como Pandas)** para manipulação e análise de dados.
 * 🧠 **Perfil Analítico & Visão Sistêmica:** Desenvolvido através de rotinas administrativas e de processo produtivo, com forte atenção aos detalhes e capacidade de conectar informações para uma compreensão abrangente do negócio.
 * 🌱 **Aprendizagem Contínua:** Atualmente cursando Pós-graduação em Análise de Dados e Matemática Aplicada, e Bacharelado em Sistemas de Informação, além de constantes cursos de qualificação na área de dados.
