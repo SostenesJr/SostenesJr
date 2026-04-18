@@ -16,12 +16,12 @@ Busco uma oportunidade em **Dados** para aplicar e expandir minhas competências
 
 ### 🚀 Minha Jornada e Habilidades em Destaque
 
-* 🔭 **Transição de Carreira & Foco em Dados:** Profissional com formação em Administração e ampla experiência em gestão de processos e garantia da qualidade, agora totalmente focado e especializado em Análise de Dados.
-* 📊 **Visualização de Dados:** Habilidade teórica na criação de dashboards e relatórios interativos com **Microsoft Power BI** e **Excel Avançado**, transformando dados complexos em informações claras e acessíveis.
-* 🔍 **Qualidade e Integridade de Dados:** Experiência teórica em ambientes que exigem estrito controle, rastreabilidade e integridade da informação (documentação de ponta a ponta), garantindo a confiabilidade dos dados para análises.
+* 🔭 **Carreira & Foco em Dados:** Profissional com formação em Administração e ampla experiência em gestão de processos e garantia da qualidade, focado e especializado em Análise de Dados.
+* 📊 **Visualização de Dados:** Habilidade na criação de dashboards e relatórios interativos com **Microsoft Power BI** e **Excel**, transformando dados complexos em informações claras e acessíveis.
+* 🔍 **Qualidade e Integridade de Dados:** Experiência em ambientes que exigem estrito controle, rastreabilidade e integridade da informação (documentação de ponta a ponta), garantindo a confiabilidade dos dados para análises.
 * 💻 **Manipulação e Consulta:** Conhecimento em **SQL Básico** para consultas de dados e **Python (com bibliotecas como Pandas)** para manipulação e análise de dados.
 * 🧠 **Perfil Analítico & Visão Sistêmica:** Desenvolvido através de rotinas administrativas e de processo produtivo, com forte atenção aos detalhes e capacidade de conectar informações para uma compreensão abrangente do negócio.
-* 🌱 **Aprendizagem Contínua:** Atualmente cursando Pós-graduação em Análise de Dados e Matemática Aplicada, e Bacharelado em Sistemas de Informação, além de constantes cursos de qualificação na área de dados.
+* 🌱 **Aprendizagem Contínua:** Atualmente cursando Pós-graduação em Análise de Dados e Matemática Aplicada, além de constantes cursos de qualificação na área de dados.
 * 🤝 **Colaboração e Proatividade:** Busco ativamente oportunidades para colaborar em projetos, aprender com times experientes e contribuir com soluções baseadas em dados.
 
 ---
