@@ -1,8 +1,8 @@
 # Olá! 👋 Sou o Sostenes Junior
 
-Sou um **Data Analyst em formação**, com uma sólida base em **Administração** e **experiência teórica em controle e integridade de dados**. Minha jornada atual é aprofundar-me no universo da **Análise de Dados**, combinando meu perfil analítico e atenção aos detalhes com **Power BI, SQL e Python** para transformar dados brutos em *insights estratégicos e visualizações impactantes*.
+Sou um **Data Analyst**, com uma sólida base em **Administração** e **experiência em controle e integridade de dados**. Minha jornada atual é aprofundar-me no universo da **Análise de Dados**, combinando meu perfil analítico e atenção aos detalhes com **Excel, Power BI, SQL e Python** para transformar dados brutos em *insights estratégicos e visualizações impactantes*.
 
-Busco uma oportunidade de **Estágio na área de Dados** para aplicar e expandir minhas competências, contribuindo ativamente na criação de relatórios e dashboards que impulsionem a tomada de decisões.
+Busco uma oportunidade em **Dados** para aplicar e expandir minhas competências, contribuindo ativamente em estrategias para melhorar a perfomance das atividades.
 
 ---
 
